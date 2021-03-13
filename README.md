@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stanliao
-- 👀 I’m interested in programming.
-- 🌱 I’m currently writing an interpretor language. 
-- 💞️ I’m looking to collaborate on interesting programming topics.
+- 👀 I’m interested in reading, programming, exercising, movies, music, ....
+- 🌱 I’m currently writing an interpretor language 
+- 💞️ I’m looking to collaborate on interesting programming topics
 - 📫 To reach me by email: stanliao1973@gmail.com
 
 Programs in this repository:
