@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on interesting programming topics.
 - 📫 To reach me by email: stanliao1973@gmail.com
 
-<!---
 Programs in this repository:
 1. a big number arithmetic (bna) library which compute:
 1.1 addition/subtraction/multiplication/division/exponentiation on big integers
@@ -21,4 +20,7 @@ Programs in this repository:
 2.6 Dynamic extension (namespace/function/variable/constant) by .dll/.so files
 2.7 Object programming
 2.8 C-like syntax
+
+<!---
+...
 --->
