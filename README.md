@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stanliao
 - 👀 I’m interested in reading, programming, exercising, movies, music, ...
-- 🌱 I’m currently writing an interpretor language 
+- 🌱 I’m currently writing ...
 - 💞️ I’m always looking for interesting programming topics ...
 - 📫 To reach me, please send emails to stanliao1973@gmail.com
 
@@ -18,23 +18,6 @@ Programs in this repository:
 
 1.5 modular elliptic-curve multiplication
 
-2. an interpretor language with the following features:
-
-2.1 Multitasking programming
-
-2.2 Function/variable/constant/structure declaration with namespace resolution
-
-2.3 Untyped elementary vaiables
-
-2.4 Passing arguments by value and passing arguments by reference
-
-2.5 Passing subarray
-
-2.6 Dynamic extension (namespace/function/variable/constant) by .dll/.so files
-
-2.7 Object programming
-
-2.8 C-like syntax
 
 <!---
 
